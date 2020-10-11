@@ -1,0 +1,36 @@
+apiClient/RequestGET.java
+ apiClient.RequestGET
+browser/ChromeZap.java
+ browser.ChromeZap
+pages/MainPage.java
+ pages.MainPage
+testUI/LoginTodoistTest.java
+ testUI.LoginTodoistTest
+apiClient/FactoryRequest.java
+ apiClient.FactoryRequest
+browser/IBrowser.java
+ browser.IBrowser
+pages/LoginModalPage.java
+ pages.LoginModalPage
+control/TextBox.java
+ control.TextBox
+testUI/VulnerabilityTest.java
+ testUI.VulnerabilityTest
+apiClient/IRequest.java
+ apiClient.IRequest
+apiClient/RequestPOST.java
+ apiClient.RequestPOST
+browser/FireFox.java
+ browser.FireFox
+session/Session.java
+ session.Session
+browser/FactoryBrowser.java
+ browser.FactoryBrowser
+browser/Chrome.java
+ browser.Chrome
+control/ControlSelenium.java
+ control.ControlSelenium
+apiClient/RequestInformation.java
+ apiClient.RequestInformation
+control/Button.java
+ control.Button
